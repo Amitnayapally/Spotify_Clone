@@ -12,7 +12,7 @@
 
   <p align="center">
     I completed this project to improve my skills! <br />
-    Project Link:  (https://amitnayapally.github.io/Spotify_Clone/)
+    Project Live Link:  https://amitnayapally.github.io/Spotify_Clone/
     <br />
   </p>
 </div>
