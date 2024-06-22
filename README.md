@@ -11,7 +11,7 @@
   <h3 align="center">Spotify.com Clone</h3>
 
   <p align="center">
-    I completed this project to improve my skills! <br />
+    I completed this project to improve my skills! <br /> <br /> 
     Project Live Link:  https://amitnayapally.github.io/Spotify_Clone/
     <br />
   </p>
