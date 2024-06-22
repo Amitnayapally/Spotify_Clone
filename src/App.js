@@ -6,7 +6,7 @@ import { BrowserRouter as Router, Switch } from "react-router-dom";
 function App() {
 
   return (
-    <Router>
+    <Router basename="/Spotify_Clone">
       <div className='wrapper'>
 
           <Switch>
