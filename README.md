@@ -1,10 +1,6 @@
 <div id="top"></div>
 
 
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -16,7 +12,7 @@
 
   <p align="center">
     I completed this project to improve my skills! <br />
-    <a href="https://friendly-pare-03979d.netlify.app/">Demo Site</a>
+    Project Link:  [https://amitnayapally.github.io/Spotify_Clone/](https://amitnayapally.github.io/Spotify_Clone/])
     <br />
   </p>
 </div>
@@ -35,12 +31,7 @@
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
     </li>
-    <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
@@ -50,9 +41,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![getir com-clon-pw](https://user-images.githubusercontent.com/57539683/152556644-f57295ee-3f3d-4c83-956c-cfcbe3c763a6.png)
-
-
+A Spotify clone using React.js is a web application that mimics the look and feel of Spotify, allowing users to browse, search, and play music. It leverages React components for a dynamic user interface, integrates with a music streaming API for content, and uses state management libraries like Redux for handling user interactions and data flow efficiently. Authentication features, such as OAuth, can be implemented to provide personalized experiences.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -70,71 +59,6 @@ All major frameworks used to start the project.
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-### Installation
-
-_You must install the following:._
-
-1. Install 'npm'
-   ```sh
-   npm install
-   ```
-1. Install Tailwind Css
-   ```sh
-   npm install -D tailwindcss
-   ```
-1. Tailwind.css init
-   ```sh
-   npx tailwindcss init
-   ```
-2. Run watch scrpits
-   ```sh
-   npm run watch
-   ```
-3. Npm start
-   ```sh
-   npm start
-   ```
-
-
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- CONTACT -->
-## Contact
-
-Eren YALÇIN  - erenyalcn09@gmail.com
-
-Project Link: [https://github.com/ErenYalcn/spotify-react-clone](https://github.com/ErenYalcn/spotify-react-clone)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 <!-- ACKNOWLEDGMENTS -->
