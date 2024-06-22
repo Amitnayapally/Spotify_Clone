@@ -47,7 +47,7 @@ A Spotify clone using React.js is a web application that mimics the look and fee
 
 
 
-### Built With
+## Built With
 
 All major frameworks used to start the project.
 
